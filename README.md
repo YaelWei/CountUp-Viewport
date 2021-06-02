@@ -7,3 +7,5 @@ CountUp function is written in JavaScript.
 Current Version: A working sample of the function is available.
 
 Author: Yael Weiss, Asc. Web Developer 
+
+Sample Run: https://user-images.githubusercontent.com/55844382/120518311-72501780-c39f-11eb-8462-7baa94a1bf06.mp4
