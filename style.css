@@ -1,0 +1,96 @@
+/* .grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color:#fec329;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+} */
+body {
+
+}
+
+#number3, #number8, #number6, #number5, #number4, #number10, #number11 {
+	color:#4f2c1d;
+	font-weight: bold;
+	font-size: 40px;
+	font-family: 'Graphik', Arial, Helvetica, sans-serif;
+	margin: 10px;
+}
+
+
+li {
+	font-family: "Tiempos", 'Times New Roman', Times, serif;
+    font-weight: normal;
+	font-size: 24px;
+}
+
+
+#number7, #number9, .dollar-sign {
+	color:#ffb500;
+	font-weight: bold;
+	font-size: 50px;
+	font-family: 'Graphik', Arial, Helvetica, sans-serif;
+	animation: fadeInUp; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+	width:300px;
+}
+
+h1 {
+
+	font-weight: normal;
+    font-family: "Graphik-Bold";
+    font-size: 55px;
+}
+
+
+.nav {
+  background-color: #000000;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+	color:#ffffff;
+
+}
+#icon-list {
+	width:700px;
+	border-top: 5px solid #ffb500;
+	border-bottom: 1px solid #ffb500;
+}
+
+#total-numbers {
+	width:700px;
+}
+
+.icon {
+
+
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  visibility: hidden;
+}
+
+.icon li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+	  width: 175px;
+}
